@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 # """ Now the user can read in a file I want to find what make a model which uses the price, class and gender
